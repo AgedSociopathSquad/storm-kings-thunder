@@ -27,3 +27,52 @@ Now she's ready to head out and meet new people, and help the lost who have yet 
 **Ideals:** Faith. I trust that my deity will guide my actions. I have faith that if I work things will go well. (Lawful)  
 **Bonds:** I entered seclusion because I did not feel welcome in my own home.
 **Flaws:** I like keeping secrets and won't share them with anyone.
+
+## Features
+
+### Dwarf Features
+
+- Withing 60ft of you, treat dim light as bright, darkness as dim light
+- Advantage on saving throws vs poison
+- Poison damage resisteance
+- Double proficiency bonus to History checks concerning stonework
+
+### Hermit Features
+
+- Your seclusion granted you a unique revelation
+
+### Life Cleric Features
+
+- Healing spells of at least 1st level heal an additional 2 + spell level
+- Turn Undead
+- Preserve Life
+
+## Proficiencies
+
+### Armor Proficiencies
+
+- Light Armor
+- Medium Armor
+- Heavy Armor
+- Shields
+
+### Weapon Proficiencies
+
+- Battle Axe
+- Hand Axe
+- Throwing Hammer
+- Warhammer
+- Simple Weapons
+
+### Tool Proficiencies
+
+- Mason's Tools
+- Herbalism Kit
+
+### Languages
+
+Common
+Dwarvish
+Something else
+Some other thing too
+
