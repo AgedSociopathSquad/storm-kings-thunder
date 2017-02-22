@@ -1,2 +1,7 @@
-# storm-kings-thunder
-Notes from Storm King's Thunder
+# Storm King's Thunder
+
+## Player Characters
+
+[Amber]
+
+[Amber]: Amber.md
