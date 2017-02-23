@@ -71,8 +71,8 @@ Now she's ready to head out and meet new people, and help the lost who have yet 
 
 ### Languages
 
-Common
-Dwarvish
-Something else
-Some other thing too
+- Common
+- Dwarvish
+- Something else
+- Some other thing too
 
